@@ -1,6 +1,5 @@
 # TSN_ANDROID_DEMO_HELLO
-Простейшая программа суммы двух цифр на Android
 
-![Screenshot](screenshot.png)
+![Screenshot](scr1.png)
+![Screenshot](scr2.png)
 
-https://www.youtube.com/watch?v=PMYmKEhbh0s
